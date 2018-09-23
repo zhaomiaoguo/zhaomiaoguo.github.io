@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/publication/ep2018/</loc>
+      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/publication/tps2017/</loc>
       <lastmod>2017-07-01T00:58:05-04:00</lastmod>
     </url>
@@ -194,6 +202,15 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/tags/pev/</loc>
+      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/people/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -214,6 +231,15 @@
     
       <loc>https://zhaomiaoguo.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/residual-value/</loc>
+      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
       <priority>0</priority>
     </url>
     
