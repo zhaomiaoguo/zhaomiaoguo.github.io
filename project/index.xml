@@ -13,29 +13,38 @@
     
     
     <item>
-      <title>:wq</title>
-      <link>https://zhaomiaoguo.github.io/project/tps2017/</link>
+      <title>Agnet-base Simulation for Complext Infratructure Systems</title>
+      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/tps2017/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascading Failures and Robust Planning/Operation of Critical Infrastructure System</title>
+      <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/cascading_power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Charging Infrastructure Evolvement in a Competitive Market</title>
-      <link>https://zhaomiaoguo.github.io/project/trc2016/</link>
+      <link>https://zhaomiaoguo.github.io/project/evolvement_charging/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/trc2016/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/evolvement_charging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://zhaomiaoguo.github.io/project/nse2016/</link>
+      <title>Transportation and Power Interdependency</title>
+      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/nse2016/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
       <description></description>
     </item>
     
