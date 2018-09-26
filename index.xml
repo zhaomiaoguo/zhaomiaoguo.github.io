@@ -11,7 +11,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>I will present at INFORMs 2018 in Phoenix on Using ADMM to Sovle Charging Infrastructure Equilibrium Problem</title>
+      <title>I will present at INFORMs 2018 at Phoenix on Using ADMM to Sovle Charging Infrastructure Equilibrium Problem</title>
       <link>https://zhaomiaoguo.github.io/post/new_talk/</link>
       <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
       
@@ -20,21 +20,13 @@
     </item>
     
     <item>
-      <title>Welcome first two team members: Kyle and Sean</title>
+      <title>Welcome two undergraduate researchers</title>
       <link>https://zhaomiaoguo.github.io/post/new_members/</link>
       <pubDate>Sun, 09 Sep 2018 15:11:02 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/new_members/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Residual Value Analysis of Plug-in Vehicles in the United States</title>
-      <link>https://zhaomiaoguo.github.io/publication/ep2018/</link>
-      <pubDate>Sat, 01 Sep 2018 01:08:42 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/ep2018/</guid>
-      <description></description>
+      <description>&lt;p&gt;Two new excellent undergraduate students, Kyle Cooke and Sean Morrissey. Kyle is Jounior Student and has received intern offer at XXX. Sean is serving military (Navy). They are working on data-driven approach to improve the parking efficiency in UCF. Welcome!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,16 +57,7 @@
     </item>
     
     <item>
-      <title>Agnet-base Simulation for Complext Infratructure Systems</title>
-      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cascading Failures and Robust Planning/Operation of Critical Infrastructure System</title>
+      <title>Cascading Failures and Robust Planning/Operation of Power System</title>
       <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -92,6 +75,15 @@
     </item>
     
     <item>
+      <title>Interdependency of Power and Transportation</title>
+      <link>https://zhaomiaoguo.github.io/project/nse2016/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/nse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kyle Cooke</title>
       <link>https://zhaomiaoguo.github.io/people/kyle_cooke/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -103,21 +95,12 @@
     
     <item>
       <title>Sean Morrisey</title>
-      <link>https://zhaomiaoguo.github.io/backup/sean_morrissey/</link>
+      <link>https://zhaomiaoguo.github.io/people/sean_morrissey/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/backup/sean_morrissey/</guid>
-      <description>&lt;p&gt;Sean is an undergraduate in Civil Engineering at UCF. He is also serving the country now.&lt;/p&gt;
+      <guid>https://zhaomiaoguo.github.io/people/sean_morrissey/</guid>
+      <description>&lt;p&gt;Sean is an undergraduate in Civil Engineering at UCF. He is currently serving at US Navy.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Transportation and Power Interdependency</title>
-      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
-      <description></description>
     </item>
     
     <item>

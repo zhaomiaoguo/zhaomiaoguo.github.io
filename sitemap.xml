@@ -20,14 +20,6 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/publication/ep2018/</loc>
-      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/publication/tps2017/</loc>
       <lastmod>2017-07-01T00:58:05-04:00</lastmod>
     </url>
@@ -76,14 +68,6 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/project/simulation/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/project/cascading_power/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -100,6 +84,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/project/nse2016/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/people/kyle_cooke/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -108,15 +100,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/backup/sean_morrissey/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/project/interdependency/</loc>
+      <loc>https://zhaomiaoguo.github.io/people/sean_morrissey/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -140,33 +124,6 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/agent-base/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/backup/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/cascading/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -175,7 +132,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/charging-infratructure/</loc>
+      <loc>https://zhaomiaoguo.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -193,34 +150,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/interdependency/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/pev/</loc>
-      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/people/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/power-system-resilience/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -231,15 +161,6 @@
     
       <loc>https://zhaomiaoguo.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/residual-value/</loc>
-      <lastmod>2018-09-01T01:08:42-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -265,7 +186,25 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/undergraduate/</loc>
+      <loc>https://zhaomiaoguo.github.io/tags/cascading/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/charging-infratructure/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/power-system-resilience/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
