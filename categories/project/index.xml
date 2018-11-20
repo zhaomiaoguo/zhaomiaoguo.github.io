@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/categories/project/</link>
+    <description>Recent content in Project on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 19 Nov 2018 17:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New funded project on ride-sharing system analysis</title>
+      <link>https://zhaomiaoguo.github.io/post/argonne_funding/</link>
+      <pubDate>Mon, 19 Nov 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/argonne_funding/</guid>
+      <description>INSPIRE Lab is awarded a project (funding source US DOE) on &amp;ldquo;Impacts of Electrified Ride-sharing on Transportation and Energy Systems&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

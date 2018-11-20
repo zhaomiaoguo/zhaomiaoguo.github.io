@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/post/argonne_funding/</loc>
+      <lastmod>2018-11-19T17:54:34-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/post/ep2018/</loc>
       <lastmod>2018-11-16T17:54:34-04:00</lastmod>
     </url>
@@ -184,6 +192,15 @@
     
       <loc>https://zhaomiaoguo.github.io/categories/presentation/</loc>
       <lastmod>2018-11-06T17:54:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/categories/project/</loc>
+      <lastmod>2018-11-19T17:54:34-04:00</lastmod>
       <priority>0</priority>
     </url>
     
