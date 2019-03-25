@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 19 Nov 2018 17:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 17:54:34 -0400</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New funded project on vehicle-to-infrastructure (V2I) planning and safety impacts</title>
+      <link>https://zhaomiaoguo.github.io/post/utc_funding/</link>
+      <pubDate>Tue, 19 Mar 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/utc_funding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New funded project on ride-sharing system analysis</title>
