@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Presentation at IISE 2019</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2019_1_talk/</link>
+      <pubDate>Thu, 09 May 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2019_1_talk/</guid>
+      <description>&lt;p&gt;Dr. Guo will have two presentations at IISE Annual Conference 2019 in Orlando, FL. He will present his work on Competitive Intermediate Facility Location Problems under Traffic Equilibrium on May. 19, 2019, and his work on Interdependence between Transportation and Power Systems, beyond Electric Vehicles on May. 20, 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New funded project on vehicle-to-infrastructure (V2I) planning and safety impacts</title>
       <link>https://zhaomiaoguo.github.io/post/utc_funding/</link>
       <pubDate>Tue, 19 Mar 2019 17:54:34 -0400</pubDate>
@@ -25,7 +35,7 @@
       <pubDate>Sat, 09 Mar 2019 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/usf_talk/</guid>
-      <description>&lt;p&gt;Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development.&lt;/p&gt;
+      <description>&lt;p&gt;Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development on Mar. 22, 2019 at USF.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,15 +148,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/data_analytics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interdependency of Power and Transportation</title>
-      <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
       <description></description>
     </item>
     
