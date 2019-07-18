@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 16 Jul 2019 17:54:34 -0400</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publication</title>
+      <link>https://zhaomiaoguo.github.io/categories/publication/</link>
+      <pubDate>Tue, 16 Jul 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/categories/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Presentation</title>
@@ -26,15 +36,6 @@
       <pubDate>Tue, 19 Mar 2019 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/categories/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publication</title>
-      <link>https://zhaomiaoguo.github.io/categories/publication/</link>
-      <pubDate>Tue, 16 Jul 2019 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/categories/publication/</guid>
       <description></description>
     </item>
     
