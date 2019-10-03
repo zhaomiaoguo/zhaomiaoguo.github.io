@@ -227,6 +227,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/people/chuang_hou/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/project/data_analytics/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -295,6 +303,15 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/tags/big-data/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -350,6 +367,15 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/electric-vehicle/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/electrical-protection/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
