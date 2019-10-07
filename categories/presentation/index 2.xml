@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/categories/presentation/</link>
+    <description>Recent content in Presentation on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 09 May 2019 17:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation at IISE 2019</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2019_1_talk/</link>
+      <pubDate>Thu, 09 May 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2019_1_talk/</guid>
+      <description>Dr. Guo will have two presentations at IISE Annual Conference 2019 in Orlando, FL. He will present his work on Competitive Intermediate Facility Location Problems under Traffic Equilibrium on May. 19, 2019, and his work on Interdependence between Transportation and Power Systems, beyond Electric Vehicles on May. 20, 2019.</description>
+    </item>
+    
+    <item>
+      <title>Presentation at USF CUTR seminar</title>
+      <link>https://zhaomiaoguo.github.io/post/usf_talk/</link>
+      <pubDate>Sat, 09 Mar 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/usf_talk/</guid>
+      <description>Dr. Guo will present his work on a stochastic general equilibrium approach on market-based facility infrastructure development on Mar. 22, 2019 at USF.</description>
+    </item>
+    
+    <item>
+      <title>Finalists in poster competition</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2018_poster/</link>
+      <pubDate>Tue, 06 Nov 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
+      <description>INSPIRE LAB&amp;rsquo;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</description>
+    </item>
+    
+    <item>
+      <title>Presentation at INFORMS 2018</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2018_talk/</link>
+      <pubDate>Sun, 09 Sep 2018 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2018_talk/</guid>
+      <description>Dr. Guo will present his work, collaborating with Sandia National Labs and UC Davis, on evolvement of charging infrastructure in a competitive and stochastic market at INFORMs 2018 in Phoenix.</description>
+    </item>
+    
+  </channel>
+</rss>
