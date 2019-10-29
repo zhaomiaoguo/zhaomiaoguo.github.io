@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 16 Jul 2019 17:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 17:54:34 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Presentation at INFORMS 2019</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2019_talk/</link>
+      <pubDate>Wed, 09 Oct 2019 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2019_talk/</guid>
+      <description>&lt;p&gt;Dr. Guo will present two of his work on renewable generator planning and EV charging incentive design considering transportationa and power interdependency at INFORMs 2019 in Seattle.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New publication</title>
@@ -139,15 +149,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cascading Failures and Robust Planning/Operation of Power System</title>
-      <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/cascading_power/</guid>
       <description></description>
     </item>
     
