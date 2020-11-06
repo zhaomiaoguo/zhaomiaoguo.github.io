@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on INSPIRE Lab @ UCF</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0400</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title></title>
       <link>https://zhaomiaoguo.github.io/home/hero_carousel/</link>
@@ -23,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/home/about/</guid>
-      <description>Principal Investigator Dr. Zhaomiao (Walter) Guo leads INfrastructure Systems with Proactive, Intelligence, and Resilience Enhancement (INSPIRE) Lab*at the University of Central Florida. Dr.Guo is currently an Assistant Professor in the Department of Civil, Environmental, and Construction Engineering and hold a joint appointment with the Resilient, Intelligent and Sustainable Energy Systems(RISES) Cluster. Dr. Guo’s research centers around modeling and computational strategies for intelligent and resilient critical infrastructure systems, with applications in transportation and energy systems.</description>
+      <description>Principal Investigator Dr. Zhaomiao (Walter) Guo leads INfrastructure Systems with Proactive, Intelligence, and Resilience Enhancement (INSPIRE) Lab* at the University of Central Florida. Dr.Guo is currently an Assistant Professor in the Department of Civil, Environmental, and Construction Engineering and hold a joint appointment with the Resilient, Intelligent and Sustainable Energy Systems(RISES) Cluster. Dr. Guo’s research centers around modeling and computational strategies for intelligent and resilient critical infrastructure systems, with applications in transportation and energy systems.</description>
     </item>
     
     <item>
@@ -86,7 +90,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/home/teaching/</guid>
-      <description>University of Central Florida  TTE 3810: Highway Engineering (Fall 2018)  University of California Davis  ECI 16: Spatial Data Analysis (Spring 2016) ECI 253: Dynamic Programming and Multi-stage Decision Processes (Spring 2015) ECI 153: Introduction to Operations Research (Fall 2014)  </description>
+      <description> University of Central Florida  TTE 3810: Highway Engineering (Fall 2018)  University of California Davis  ECI 16: Spatial Data Analysis (Spring 2016) ECI 253: Dynamic Programming and Multi-stage Decision Processes (Spring 2015) ECI 153: Introduction to Operations Research (Fall 2014)  </description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>power on INSPIRE Lab @ UCF</title>
@@ -7,14 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/tags/power/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/power/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Interdependency of Power and Transportation</title>
       <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
-      <description>Power and transportation networks have various similarity and interdependency. This project looks at different linkages between these two critical infrastructure systems, including methodological and functional aspects</description>
+      <description></description>
     </item>
     
   </channel>

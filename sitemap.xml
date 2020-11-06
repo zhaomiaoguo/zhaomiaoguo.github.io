@@ -1,28 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/categories/</loc>
-      <lastmod>2019-10-09T17:54:34-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/</loc>
-      <lastmod>2019-10-09T17:54:34-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/categories/presentation/</loc>
-      <lastmod>2019-10-09T17:54:34-04:00</lastmod>
-    </url>
-    
   
     
     <url>
@@ -36,14 +13,6 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/post/tse2019/</loc>
-      <lastmod>2019-07-16T17:54:34-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/categories/publication/</loc>
       <lastmod>2019-07-16T17:54:34-04:00</lastmod>
     </url>
     
@@ -68,14 +37,6 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/post/utc_funding/</loc>
-      <lastmod>2019-03-19T17:54:34-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/categories/project/</loc>
       <lastmod>2019-03-19T17:54:34-04:00</lastmod>
     </url>
     
@@ -115,31 +76,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/big-analytics/</loc>
-      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/market-analysis/</loc>
-      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/publication/ep2018/</loc>
-      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/</loc>
       <lastmod>2018-10-01T01:08:42-04:00</lastmod>
     </url>
     
@@ -203,39 +140,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/project/simulation/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/big-data/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/cascading/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -251,23 +156,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/charging/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/project/evolvement_charging/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/charging-infratructure/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -291,55 +180,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/tags/data-analytics/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/data-visualization/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/electric-vehicle/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/people/fatima_afifah/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/graduate-researcher/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/image-processing/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/interdependency/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -363,95 +204,7 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/people/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/power/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/power-system/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/power-system-resilience/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/ride-sharing/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/people/sean_morrissey/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/traffic-safety/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/transportation/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/undergraduate/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zhaomiaoguo.github.io/tags/visiting-scholar/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -469,6 +222,283 @@
     
       <loc>https://zhaomiaoguo.github.io/publication/trr2012/</loc>
       <lastmod>2012-01-01T01:12:08-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/people/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/categories/presentation/</loc>
+      <lastmod>2019-10-09T17:54:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/categories/project/</loc>
+      <lastmod>2019-03-19T17:54:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/categories/publication/</loc>
+      <lastmod>2019-07-16T17:54:34-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/undergraduate/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/big-analytics/</loc>
+      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/big-data/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/cascading/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/charging/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/charging-infratructure/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/data-analytics/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/data-visualization/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/electric-vehicle/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/graduate-researcher/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/image-processing/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/interdependency/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/market-analysis/</loc>
+      <lastmod>2018-10-01T01:08:42-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/power/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/power-system/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/power-system-resilience/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/ride-sharing/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/traffic-safety/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/transportation/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/visiting-scholar/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
