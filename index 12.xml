@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INSPIRE Lab @ UCF on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/</link>
+    <description>Recent content in INSPIRE Lab @ UCF on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 09 Oct 2019 17:54:34 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zhaomiaoguo.github.io/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://zhaomiaoguo.github.io/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://zhaomiaoguo.github.io/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peoples</title>
+      <link>https://zhaomiaoguo.github.io/people/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zhaomiaoguo.github.io/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
