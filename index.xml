@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>New funded project on assessing societal understanding of existing/future vehicle technologies</title>
+      <link>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</link>
+      <pubDate>Fri, 31 Jan 2020 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Presentation at INFORMS 2019</title>
       <link>https://zhaomiaoguo.github.io/post/informs2019_talk/</link>
       <pubDate>Wed, 09 Oct 2019 17:54:34 -0400</pubDate>
@@ -142,17 +151,6 @@
       
       <guid>https://zhaomiaoguo.github.io/publication/nse2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Agnet-base Simulation for Complex Infrastructure Systems</title>
-      <link>https://zhaomiaoguo.github.io/project/simulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
-      <description>&lt;p&gt;Due to an increasing connectivity, interdependence, and complexity of infrastructure systems, an analytical model may not be feasible to reflect the interactions within/between systems. As an alternative, agent-base modeling is found to be effective to capture complicated agent interactions and visualize system dynamics, especially with increasing data availability. This project develops an agent-base modeling platform to capture the interactions between key decision makers in transportation and power systems, including drivers, households and infrastructure investors, and simulate their decision making over both short-term and long-term horizon. This platform has broad applications in the study of EV charging, ride-sharing and power-transportation interdependency.
-&lt;img src=&#34;https://zhaomiaoguo.github.io/img/team.pdf&#34; alt=&#34;TEAM model&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
