@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 31 Jan 2020 17:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 17:54:34 -0400</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>New funded project on assessing societal understanding of existing/future vehicle technologies</title>
+      <title>New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU</title>
+      <link>https://zhaomiaoguo.github.io/post/fdot_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/fdot_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC</title>
+      <link>https://zhaomiaoguo.github.io/post/safer_sim_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New funded project on assessing societal understanding of existing/future vehicle technologies, sponsored by Safer-Sim Tier 1 UTC and AAA Foundation for Traffic Safety.</title>
       <link>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</link>
       <pubDate>Fri, 31 Jan 2020 17:54:34 -0400</pubDate>
       
@@ -31,7 +49,7 @@
     </item>
     
     <item>
-      <title>New funded project on ride-sharing system analysis</title>
+      <title>New funded project on ride-sharing system analysis, sponsored by Argonne National Lab, Department of Energy</title>
       <link>https://zhaomiaoguo.github.io/post/argonne_funding/</link>
       <pubDate>Mon, 19 Nov 2018 17:54:34 -0400</pubDate>
       

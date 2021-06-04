@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Undergraduate</title>
-      <link>https://zhaomiaoguo.github.io/tags/undergraduate/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/tags/undergraduate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>agent-base-modeling</title>
       <link>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -32,7 +23,7 @@
     <item>
       <title>agent-based modeling</title>
       <link>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</guid>
       <description></description>
@@ -84,6 +75,24 @@
     </item>
     
     <item>
+      <title>current graduate</title>
+      <link>https://zhaomiaoguo.github.io/tags/current-graduate/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/current-graduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>current undergraduate</title>
+      <link>https://zhaomiaoguo.github.io/tags/current-undergraduate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/current-undergraduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data-analytics</title>
       <link>https://zhaomiaoguo.github.io/tags/data-analytics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -113,18 +122,36 @@
     <item>
       <title>graduate-researcher</title>
       <link>https://zhaomiaoguo.github.io/tags/graduate-researcher/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/graduate-researcher/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>image-processing</title>
-      <link>https://zhaomiaoguo.github.io/tags/image-processing/</link>
+      <title>high school student</title>
+      <link>https://zhaomiaoguo.github.io/tags/high-school-student/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
+      <guid>https://zhaomiaoguo.github.io/tags/high-school-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image processing</title>
+      <link>https://zhaomiaoguo.github.io/tags/image-processing/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
       <guid>https://zhaomiaoguo.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure resilience</title>
+      <link>https://zhaomiaoguo.github.io/tags/infrastructure-resilience/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/infrastructure-resilience/</guid>
       <description></description>
     </item>
     
@@ -138,11 +165,38 @@
     </item>
     
     <item>
+      <title>machine learning</title>
+      <link>https://zhaomiaoguo.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>market-analysis</title>
       <link>https://zhaomiaoguo.github.io/tags/market-analysis/</link>
       <pubDate>Mon, 01 Oct 2018 01:08:42 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/market-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operations research</title>
+      <link>https://zhaomiaoguo.github.io/tags/operations-research/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/operations-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimization</title>
+      <link>https://zhaomiaoguo.github.io/tags/optimization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/optimization/</guid>
       <description></description>
     </item>
     
@@ -174,6 +228,24 @@
     </item>
     
     <item>
+      <title>previous graduate</title>
+      <link>https://zhaomiaoguo.github.io/tags/previous-graduate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/previous-graduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>previous undergraduate</title>
+      <link>https://zhaomiaoguo.github.io/tags/previous-undergraduate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/previous-undergraduate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ride-sharing</title>
       <link>https://zhaomiaoguo.github.io/tags/ride-sharing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -183,9 +255,9 @@
     </item>
     
     <item>
-      <title>traffic-safety</title>
+      <title>traffic safety</title>
       <link>https://zhaomiaoguo.github.io/tags/traffic-safety/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/traffic-safety/</guid>
       <description></description>
@@ -201,11 +273,56 @@
     </item>
     
     <item>
-      <title>transportation-system-modeling-and-optimization</title>
-      <link>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</link>
+      <title>transportation and power system interdependence</title>
+      <link>https://zhaomiaoguo.github.io/tags/transportation-and-power-system-interdependence/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/transportation-and-power-system-interdependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation electrification</title>
+      <link>https://zhaomiaoguo.github.io/tags/transportation-electrification/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/transportation-electrification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation engineering</title>
+      <link>https://zhaomiaoguo.github.io/tags/transportation-engineering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
+      <guid>https://zhaomiaoguo.github.io/tags/transportation-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transportation system modeling and optimization</title>
+      <link>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      
       <guid>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>undergraduate researcher</title>
+      <link>https://zhaomiaoguo.github.io/tags/undergraduate-researcher/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/undergraduate-researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vehicle technology</title>
+      <link>https://zhaomiaoguo.github.io/tags/vehicle-technology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/vehicle-technology/</guid>
       <description></description>
     </item>
     
@@ -215,6 +332,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/visiting-scholar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volunteer</title>
+      <link>https://zhaomiaoguo.github.io/tags/volunteer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/tags/volunteer/</guid>
       <description></description>
     </item>
     
