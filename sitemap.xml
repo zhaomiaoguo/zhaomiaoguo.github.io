@@ -292,14 +292,6 @@
     
     <url>
     
-      <loc>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zhaomiaoguo.github.io/people/hongjing_shi/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -325,6 +317,14 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/people/sean_morrissey/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -491,6 +491,15 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/current-undergraduate/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/data-analytics/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
