@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Best Poster Award (2nd place) in INFORMS Annual Conference</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</link>
+      <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</guid>
+      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU</title>
       <link>https://zhaomiaoguo.github.io/post/fdot_funding/</link>
       <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
@@ -142,15 +152,6 @@
       <guid>https://zhaomiaoguo.github.io/people/fatima_afifah/</guid>
       <description>&lt;p&gt;Prior to joining UCF, Fatima worked as an educator for two years.  She completed her undergraduate and master’s degree in Civil Engineering from Bangladesh University of Engineering &amp;amp; Technology (BUET). While studying in BUET, she focused on issues related to child road safety and car-following behavior in heterogeneous road traffic condition. Fatima has succeeded on extracting the vehicle trajectory of heterogeneous traffic stream using image processing which she further used on her master’s thesis. Fatima is currently pursuing her PhD in UCF where she works in solving complex problems related to traffic system and operation using optimization technique.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>New funded project on vehicle-to-infrastructure (V2I) planning and safety impacts</title>
-      <link>https://zhaomiaoguo.github.io/post/utc_funding/</link>
-      <pubDate>Tue, 19 Mar 2019 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/utc_funding/</guid>
-      <description></description>
     </item>
     
   </channel>
