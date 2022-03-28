@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>New funded project on optimizing information value in stochastic transportation systems, sponsored by NSF.</title>
+      <link>https://zhaomiaoguo.github.io/post/nsf_funding/</link>
+      <pubDate>Fri, 12 Nov 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/nsf_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Best Poster Award (2nd place) in INFORMS Annual Conference</title>
       <link>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</link>
       <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
@@ -141,15 +150,6 @@
       <guid>https://zhaomiaoguo.github.io/post/tse2019/</guid>
       <description>&lt;p&gt;New publication in value of autonomous electric vehicles on power distribution network operation considering dynamic distribution network reconfiguration, travel behaviors, and existence of renewable energy. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8726091&#34; title=&#34;Jump to IEEE Transactions of Sustainable Energy&#34; target=&#34;_blank&#34;&gt;Access Link&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Impacts of Integrating Topology Reconfiguration and Vehicle-to-Grid Technologies on Distribution System Operation</title>
-      <link>https://zhaomiaoguo.github.io/publication/tse2019/</link>
-      <pubDate>Mon, 01 Jul 2019 00:58:05 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/tse2019/</guid>
-      <description></description>
     </item>
     
   </channel>
