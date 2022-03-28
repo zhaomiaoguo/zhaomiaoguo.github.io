@@ -84,6 +84,14 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/project/reinforcement_learning/</loc>
+      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/project/information/</loc>
       <lastmod>2021-01-27T00:00:00-05:00</lastmod>
     </url>
@@ -602,6 +610,15 @@
     
     <url>
     
+      <loc>https://zhaomiaoguo.github.io/tags/information/</loc>
+      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zhaomiaoguo.github.io/tags/infrastructure-resilience/</loc>
       <lastmod>2018-08-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -612,7 +629,7 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/interdependency/</loc>
-      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -631,6 +648,15 @@
     
       <loc>https://zhaomiaoguo.github.io/tags/market-analysis/</loc>
       <lastmod>2021-10-01T01:08:42-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/multi-agent/</loc>
+      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -657,7 +683,7 @@
     <url>
     
       <loc>https://zhaomiaoguo.github.io/tags/power/</loc>
-      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -694,6 +720,15 @@
     
       <loc>https://zhaomiaoguo.github.io/tags/previous-undergraduate/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zhaomiaoguo.github.io/tags/reinforcement-learning/</loc>
+      <lastmod>2021-01-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

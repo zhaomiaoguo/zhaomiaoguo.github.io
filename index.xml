@@ -105,7 +105,16 @@
     </item>
     
     <item>
-      <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA)</title>
+      <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
+      <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA), sponsor: NSF, Safer-Sim(seed)</title>
       <link>https://zhaomiaoguo.github.io/project/information/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
@@ -140,15 +149,6 @@
       <guid>https://zhaomiaoguo.github.io/post/informs2020_talk/</guid>
       <description>&lt;p&gt;INSPIRE lab will present two of recent research at INFORMs 2020 (virtual): (1) EV charging behavior study using large-scale supply-side charging data. (2) A Stochastic Multi-Agent Optimization Framework for Interdependent Transportation and Power System Analyses.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>New funded project on assessing societal understanding of existing/future vehicle technologies, sponsored by Safer-Sim Tier 1 UTC and AAA Foundation for Traffic Safety.</title>
-      <link>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</link>
-      <pubDate>Fri, 31 Jan 2020 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</guid>
-      <description></description>
     </item>
     
   </channel>
