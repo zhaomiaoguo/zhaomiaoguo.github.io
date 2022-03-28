@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Presentation at 2022 7th Annual UTC Conference for the Southeastern Region</title>
+      <link>https://zhaomiaoguo.github.io/post/utc2022_talk/</link>
+      <pubDate>Thu, 24 Mar 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/utc2022_talk/</guid>
+      <description>&lt;p&gt;Rakibul presented one of his recent research at 2022 7th Annual UTC Conference for the Southeastern Region. The title of the presentation is Co-optimization of Charging Scheduling and Platooning for Long-haul Freight Electric Vehicles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New funded project on optimizing information value in stochastic transportation systems, sponsored by NSF.</title>
       <link>https://zhaomiaoguo.github.io/post/nsf_funding/</link>
       <pubDate>Wed, 12 Jan 2022 17:54:34 -0400</pubDate>
@@ -95,6 +105,15 @@
     </item>
     
     <item>
+      <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA)</title>
+      <link>https://zhaomiaoguo.github.io/project/information/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/project/information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Stochastic Multi-Agent Optimization Framework for Interdependent Transportation and Power System Analyses</title>
       <link>https://zhaomiaoguo.github.io/publication/tte2020/</link>
       <pubDate>Fri, 01 Jan 2021 00:58:05 -0400</pubDate>
@@ -130,26 +149,6 @@
       
       <guid>https://zhaomiaoguo.github.io/post/aaa_fts_funding/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation at INFORMS 2019</title>
-      <link>https://zhaomiaoguo.github.io/post/informs2019_talk/</link>
-      <pubDate>Wed, 09 Oct 2019 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/informs2019_talk/</guid>
-      <description>&lt;p&gt;Dr. Guo will present two of his work on renewable generator planning and EV charging incentive design considering transportationa and power interdependency at INFORMs 2019 in Seattle.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New publication</title>
-      <link>https://zhaomiaoguo.github.io/post/tse2019/</link>
-      <pubDate>Tue, 16 Jul 2019 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/tse2019/</guid>
-      <description>&lt;p&gt;New publication in value of autonomous electric vehicles on power distribution network operation considering dynamic distribution network reconfiguration, travel behaviors, and existence of renewable energy. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8726091&#34; title=&#34;Jump to IEEE Transactions of Sustainable Energy&#34; target=&#34;_blank&#34;&gt;Access Link&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

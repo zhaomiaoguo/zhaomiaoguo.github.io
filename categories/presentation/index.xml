@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 17:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 16:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation at 2022 7th Annual UTC Conference for the Southeastern Region</title>
+      <link>https://zhaomiaoguo.github.io/post/utc2022_talk/</link>
+      <pubDate>Thu, 24 Mar 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/utc2022_talk/</guid>
+      <description>Rakibul presented one of his recent research at 2022 7th Annual UTC Conference for the Southeastern Region. The title of the presentation is Co-optimization of Charging Scheduling and Platooning for Long-haul Freight Electric Vehicles.</description>
+    </item>
     
     <item>
       <title>Best Poster Award (2nd place) in INFORMS Annual Conference</title>
