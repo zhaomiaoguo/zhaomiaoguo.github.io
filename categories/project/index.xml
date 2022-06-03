@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on INSPIRE Lab @ UCF</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 17:54:34 -0400</lastBuildDate>
-    
-	<atom:link href="https://zhaomiaoguo.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 12 Jan 2022 17:54:34 -0400</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New funded project on optimizing information value in stochastic transportation systems, sponsored by NSF.</title>
       <link>https://zhaomiaoguo.github.io/post/nsf_funding/</link>
@@ -22,20 +18,20 @@
     </item>
     
     <item>
-      <title>New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU</title>
-      <link>https://zhaomiaoguo.github.io/post/fdot_funding/</link>
-      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/fdot_funding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC</title>
       <link>https://zhaomiaoguo.github.io/post/safer_sim_funding/</link>
       <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU</title>
+      <link>https://zhaomiaoguo.github.io/post/fdot_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/fdot_funding/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>information on INSPIRE Lab @ UCF</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://zhaomiaoguo.github.io/tags/information/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/tags/information/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA), sponsor: NSF, Safer-Sim(seed)</title>
       <link>https://zhaomiaoguo.github.io/project/information/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/information/</guid>
-      <description></description>
+      <description>This project addresses the use of advanced sensing, communications, and computing technologies in studying value of information in transportation systems made up of heterogeneous traffic (cars, autonomous and connected vehicles, buses, bicycles, etc.) The wealth of data available on these systems enables new approaches to information provisioning that have the potential to improve transportation system efficiency, reliability, and resilience. The project develops a unified modeling framework for information provision considering heterogeneous non-cooperative stakeholders and addresses three critical questions: (1) How do we model adaptive behavior of different traffic components in response to evolving information updates? (2) What are the limits of positive and negative information on systems efficiency, reliability, and resilience? (3) Given limited resources, what, when, and where should the information be communicated with which groups of stakeholders to optimize system performance?</description>
     </item>
     
   </channel>
