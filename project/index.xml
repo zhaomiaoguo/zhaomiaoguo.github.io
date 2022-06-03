@@ -7,11 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
       <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
       <description>The goal is to optimize variable speed limit control (VSLC) strategies over network to improve both traffic safety and mobility. The proposed research will advance the current knowledge and practice of VSLC in three aspects. First, this research will enlarge the scope of VSLC from link­based to network­ based control to bring a new understanding about its system­level safety implications. Second, it will optimize the impact of VSLC using multi­objective learning approaches considering both safety and mobility. Third, distributed artificial intelligence approaches proposed in this research introduce new opportunities for network control effectiveness and scalability compared with traditional model/rule based approaches.</description>
@@ -20,7 +24,7 @@
     <item>
       <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA), sponsor: NSF, Safer-Sim(seed)</title>
       <link>https://zhaomiaoguo.github.io/project/information/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/information/</guid>
       <description>This project addresses the use of advanced sensing, communications, and computing technologies in studying value of information in transportation systems made up of heterogeneous traffic (cars, autonomous and connected vehicles, buses, bicycles, etc.) The wealth of data available on these systems enables new approaches to information provisioning that have the potential to improve transportation system efficiency, reliability, and resilience. The project develops a unified modeling framework for information provision considering heterogeneous non-cooperative stakeholders and addresses three critical questions: (1) How do we model adaptive behavior of different traffic components in response to evolving information updates? (2) What are the limits of positive and negative information on systems efficiency, reliability, and resilience? (3) Given limited resources, what, when, and where should the information be communicated with which groups of stakeholders to optimize system performance?</description>
@@ -29,7 +33,7 @@
     <item>
       <title>Agnet-base Simulation for Complex Infrastructure Systems, sponsor: Argonne/DOE</title>
       <link>https://zhaomiaoguo.github.io/project/simulation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/simulation/</guid>
       <description>Due to an increasing connectivity, interdependence, and complexity of infrastructure systems, an analytical model may not be feasible to reflect the interactions within/between systems. As an alternative, agent-base modeling is found to be effective to capture complicated agent interactions and visualize system dynamics, especially with increasing data availability. This project develops an agent-base modeling platform to capture the interactions between key decision makers in transportation and power systems, including drivers, households and infrastructure investors, and simulate their decision making over both short-term and long-term horizon. This platform has broad applications in the study of EV charging, ride-sharing and power-transportation interdependency.</description>
@@ -38,7 +42,7 @@
     <item>
       <title>Cascading Failures and Robust Planning/Operation of Power System</title>
       <link>https://zhaomiaoguo.github.io/project/cascading_power/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/cascading_power/</guid>
       <description>Cascading failures have become one of the biggest challenges for increasingly connected infrastructure systems, such as power network. This project investigates effective and robust planning and operation strategies for power system considering the possibility of cascading failures.</description>
@@ -47,7 +51,7 @@
     <item>
       <title>Charging Infrastructure Evolvement in a Competitive Market</title>
       <link>https://zhaomiaoguo.github.io/project/evolvement_charging/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/evolvement_charging/</guid>
       <description>Charging infrastructure is a critical element for the success of transportation electrification. But charging infrastructure is not developed by a single central planner. This project investigates the potential evolvement of &lt;a href=&#34;https://en.wikipedia.org/wiki/Plug-in_electric_vehicle&#34; title=&#34;Plug-in Electric Vehicle&#34;&gt;PEV&lt;/a&gt; charging infrastructure in a competitive market.</description>
@@ -56,7 +60,7 @@
     <item>
       <title>Data Analytics in Transportation System, sponsor: Argonne/DOE</title>
       <link>https://zhaomiaoguo.github.io/project/data_analytics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/data_analytics/</guid>
       <description>Data has arguably become one of the most powerful tools to understand system in a timely fashion. In transportation, multiple data sources (e.g. social media, transaction, economics, sensors, etc.) have become readily available. This project collects and analyzes large-scale transportation data, including vehicle market value, on-demand transportaiton service, travel survey, and charging data.</description>
@@ -65,7 +69,7 @@
     <item>
       <title>Interdependency of Power and Transportation, sponsor: UCF ORC Seed</title>
       <link>https://zhaomiaoguo.github.io/project/interdependency/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/interdependency/</guid>
       <description>Power and transportation networks have various similarity and interdependency. This project looks at different linkages between these two critical infrastructure systems, including methodological and functional aspects</description>

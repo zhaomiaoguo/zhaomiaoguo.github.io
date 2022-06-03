@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on INSPIRE Lab @ UCF</title>
+    <title>Peoples on INSPIRE Lab @ UCF</title>
     <link>https://zhaomiaoguo.github.io/people/</link>
-    <description>Recent content in People on INSPIRE Lab @ UCF</description>
+    <description>Recent content in Peoples on INSPIRE Lab @ UCF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Fatima Afifah</title>
       <link>https://zhaomiaoguo.github.io/people/fatima_afifah/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/fatima_afifah/</guid>
       <description>Graduate Student Researcher, PhD Student</description>
@@ -20,7 +24,7 @@
     <item>
       <title>Md Rakibul Alam</title>
       <link>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/md_rakibul_alam/</guid>
       <description>Graduate Student Researcher, PhD Student</description>
@@ -29,7 +33,7 @@
     <item>
       <title>Sina Baghali</title>
       <link>https://zhaomiaoguo.github.io/people/sina_baghali/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/sina_baghali/</guid>
       <description>Graduate Student Researcher, PhD Student</description>
@@ -38,7 +42,7 @@
     <item>
       <title>Amani McFarlane</title>
       <link>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</guid>
       <description>Undergraduate Researcher, RAMP Scholar</description>
@@ -47,7 +51,7 @@
     <item>
       <title>Chuang Hou</title>
       <link>https://zhaomiaoguo.github.io/people/chuang_hou/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/chuang_hou/</guid>
       <description>Visiting Scholar (2020), Software Engineer at Alibaba Group</description>
@@ -56,7 +60,7 @@
     <item>
       <title>Enrique Sara Cueto</title>
       <link>https://zhaomiaoguo.github.io/people/enrique_sara_cueto/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/enrique_sara_cueto/</guid>
       <description>Undergraduate Researcher</description>
@@ -65,7 +69,7 @@
     <item>
       <title>Hongjing Shi</title>
       <link>https://zhaomiaoguo.github.io/people/hongjing_shi/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/hongjing_shi/</guid>
       <description>Volunteer, High School Student</description>
@@ -74,7 +78,7 @@
     <item>
       <title>Kyle Cooke</title>
       <link>https://zhaomiaoguo.github.io/people/kyle_cooke/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/kyle_cooke/</guid>
       <description>Undergraduate Researcher</description>
@@ -83,7 +87,7 @@
     <item>
       <title>Sean Morrisey</title>
       <link>https://zhaomiaoguo.github.io/people/sean_morrissey/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/sean_morrissey/</guid>
       <description>Undergraduate Researcher</description>
@@ -92,7 +96,7 @@
     <item>
       <title>Tadeas Lobreis</title>
       <link>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</guid>
       <description>Undergraduate Researcher</description>

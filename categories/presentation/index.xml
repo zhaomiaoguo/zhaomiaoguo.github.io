@@ -7,14 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 17:54:34 -0400</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 17:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best student paper award (Energy Systems Track, 3rd place) in IISE Annual Conference</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</link>
+      <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</guid>
+      <description>INSPIRE LAB&#39;s paper on Multi-stage Charging Station and Distributed Generator Planning in Decentralized Power Distribution and Transportation Systems received the 3rd place in the best student paper award competition in Energy System Track in IISE Annual Conference 2022. Congratulations Sina and Rakibul!</description>
+    </item>
+    
+    <item>
+      <title>Presentations at IISE 2021</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2022_talk/</link>
+      <pubDate>Wed, 25 May 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2022_talk/</guid>
+      <description>We will have three presentations at IISE Annual Conference 2022 at Seattle from May 21 to May 24, 2022. Sina will present the work, coauthored with Rakibul Alam and Dr. Guo, on multi-stage multi-agent charging infrastructure and distributed generators planning in coupled transportation and power systems. Dr. Guo will present two of the works on the charging infrastructure planning for ride-sourcing systems (coauthored with Rakibul) and network modeling with en-route information updates for transportation systems (coauthored with Fatima).</description>
+    </item>
+    
+    <item>
+      <title>Presentation at 2022 7th Annual UTC Conference for the Southeastern Region</title>
+      <link>https://zhaomiaoguo.github.io/post/utc2022_talk/</link>
+      <pubDate>Thu, 24 Mar 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/utc2022_talk/</guid>
+      <description>Rakibul presented one of his recent research at 2022 7th Annual UTC Conference for the Southeastern Region. The title of the presentation is Co-optimization of Charging Scheduling and Platooning for Long-haul Freight Electric Vehicles.</description>
+    </item>
+    
     <item>
       <title>Best Poster Award (2nd place) in INFORMS Annual Conference</title>
       <link>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</link>
       <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</guid>
-      <description>INSPIRE LAB&amp;rsquo;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!</description>
+      <description>INSPIRE LAB&#39;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!</description>
     </item>
     
     <item>
@@ -23,7 +54,7 @@
       <pubDate>Wed, 26 May 2021 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</guid>
-      <description>INSPIRE LAB&amp;rsquo;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!</description>
+      <description>INSPIRE LAB&#39;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!</description>
     </item>
     
     <item>
@@ -86,7 +117,7 @@
       <pubDate>Tue, 06 Nov 2018 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
-      <description>INSPIRE LAB&amp;rsquo;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</description>
+      <description>INSPIRE LAB&#39;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</description>
     </item>
     
     <item>

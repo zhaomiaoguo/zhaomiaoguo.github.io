@@ -6,22 +6,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 17:54:34 -0400</lastBuildDate>
-    <atom:link href="https://zhaomiaoguo.github.io/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 17:54:34 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
       <link>https://zhaomiaoguo.github.io/project/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>People</title>
+      <title>Peoples</title>
       <link>https://zhaomiaoguo.github.io/people/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/</guid>
       <description></description>
@@ -30,7 +30,7 @@
     <item>
       <title>Posts</title>
       <link>https://zhaomiaoguo.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/</guid>
       <description></description>
@@ -39,7 +39,7 @@
     <item>
       <title>Publications</title>
       <link>https://zhaomiaoguo.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/publication/</guid>
       <description></description>
@@ -48,7 +48,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://zhaomiaoguo.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/talk/</guid>
       <description></description>

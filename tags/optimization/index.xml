@@ -7,11 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Amani McFarlane</title>
       <link>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</guid>
       <description>Undergraduate Researcher, RAMP Scholar</description>
@@ -20,7 +24,7 @@
     <item>
       <title>Tadeas Lobreis</title>
       <link>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</guid>
       <description>Undergraduate Researcher</description>

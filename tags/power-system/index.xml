@@ -7,11 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/tags/power-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/power-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Chuang Hou</title>
       <link>https://zhaomiaoguo.github.io/people/chuang_hou/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/chuang_hou/</guid>
       <description>Visiting Scholar (2020), Software Engineer at Alibaba Group</description>

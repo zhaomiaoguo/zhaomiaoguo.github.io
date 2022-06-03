@@ -7,22 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 17:54:34 -0400</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 17:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://zhaomiaoguo.github.io/categories/presentation/</link>
+      <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Project</title>
       <link>https://zhaomiaoguo.github.io/categories/project/</link>
       <pubDate>Wed, 12 Jan 2022 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/categories/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation</title>
-      <link>https://zhaomiaoguo.github.io/categories/presentation/</link>
-      <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/categories/presentation/</guid>
       <description></description>
     </item>
     

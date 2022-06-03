@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaomiaoguo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimization-based trip chain emulation for electrified ride-sourcing charging demand analyses</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022a/</link>
+      <pubDate>Thu, 05 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Planning for Ride-sourcing Electric Vehicles Considering Drivers’ Value of Time</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022b/</link>
+      <pubDate>Wed, 04 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022b/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data Mining of Plug-in Electric Vehicles Charging Behavior using Supply-Side Data</title>
       <link>https://zhaomiaoguo.github.io/publication/ep2021/</link>
@@ -54,6 +76,15 @@
     </item>
     
     <item>
+      <title>Residual Value Analysis of Plug-in Vehicles in the United States</title>
+      <link>https://zhaomiaoguo.github.io/publication/ep2018/</link>
+      <pubDate>Mon, 01 Oct 2018 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/ep2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contingency-Constrained Unit Commitment With Intervening Time for System Adjustments</title>
       <link>https://zhaomiaoguo.github.io/publication/tps2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:58:05 -0400</pubDate>
@@ -65,9 +96,18 @@
     <item>
       <title>A Stochastic Multi-agent Optimization Model for Energy Infrastructure Planning under Uncertainty in An Oligopolistic Market</title>
       <link>https://zhaomiaoguo.github.io/publication/nse2016/</link>
-      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/publication/nse2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure Planning for Fast Charging Stations in a Competitive Market</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2016/</guid>
       <description></description>
     </item>
     
