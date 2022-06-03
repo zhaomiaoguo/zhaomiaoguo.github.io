@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INSPIRE Lab @ UCF on INSPIRE Lab @ UCF</title>
@@ -6,51 +7,147 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 26 May 2022 17:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
-      <link>https://zhaomiaoguo.github.io/project/</link>
+      <title>Best student paper award (Energy Systems Track, 3rd place) in IISE Annual Conference</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</link>
+      <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</guid>
+      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s paper on Multi-stage Charging Station and Distributed Generator Planning in Decentralized Power Distribution and Transportation Systems received the 3rd place in the best student paper award competition in Energy System Track in IISE Annual Conference 2022. Congratulations Sina and Rakibul!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentations at IISE 2021</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2022_talk/</link>
+      <pubDate>Wed, 25 May 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2022_talk/</guid>
+      <description>&lt;p&gt;We will have three presentations at IISE Annual Conference 2022 at Seattle from May 21 to May 24, 2022. Sina will present the work, coauthored with Rakibul Alam and Dr. Guo, on multi-stage multi-agent charging infrastructure and distributed generators planning in coupled transportation and power systems.  Dr. Guo will present two of the works on the charging infrastructure planning for ride-sourcing systems (coauthored with Rakibul) and network modeling with en-route information updates for transportation systems (coauthored with Fatima).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimization-based trip chain emulation for electrified ride-sourcing charging demand analyses</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022a/</link>
+      <pubDate>Thu, 05 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charging Infrastructure Planning for Ride-sourcing Electric Vehicles Considering Drivers’ Value of Time</title>
+      <link>https://zhaomiaoguo.github.io/publication/tl2022b/</link>
+      <pubDate>Wed, 04 May 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tl2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at 2022 7th Annual UTC Conference for the Southeastern Region</title>
+      <link>https://zhaomiaoguo.github.io/post/utc2022_talk/</link>
+      <pubDate>Thu, 24 Mar 2022 16:30:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/utc2022_talk/</guid>
+      <description>&lt;p&gt;Rakibul presented one of his recent research at 2022 7th Annual UTC Conference for the Southeastern Region. The title of the presentation is Co-optimization of Charging Scheduling and Platooning for Long-haul Freight Electric Vehicles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New funded project on optimizing information value in stochastic transportation systems, sponsored by NSF.</title>
+      <link>https://zhaomiaoguo.github.io/post/nsf_funding/</link>
+      <pubDate>Wed, 12 Jan 2022 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/nsf_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Poster Award (2nd place) in INFORMS Annual Conference</title>
+      <link>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</link>
+      <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</guid>
+      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Plug-in Electric Vehicles Charging Behavior using Supply-Side Data</title>
+      <link>https://zhaomiaoguo.github.io/publication/ep2021/</link>
+      <pubDate>Fri, 01 Oct 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/ep2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New funded project on Evaluating and Validating Technology Options for Estimating Transit Vehicle Occupancy in Real Time, sponsored by FDOT and collaborated with FSU and FIU</title>
+      <link>https://zhaomiaoguo.github.io/post/fdot_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/fdot_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC</title>
+      <link>https://zhaomiaoguo.github.io/post/safer_sim_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Travel and Charging Behavior of ElectricVehicles - A Data-driven Approach</title>
+      <link>https://zhaomiaoguo.github.io/publication/pes2017/</link>
+      <pubDate>Tue, 01 Jun 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/pes2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best paper award (Energy Systems Track) in IISE Annual Conference</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</link>
+      <pubDate>Wed, 26 May 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</guid>
+      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presentation at IISE 2021</title>
+      <link>https://zhaomiaoguo.github.io/post/iise2021_talk/</link>
+      <pubDate>Tue, 25 May 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/iise2021_talk/</guid>
+      <description>&lt;p&gt;Dr. Guo will have one presentations at IISE Annual Conference 2021 (virtual). He will present the work, coauthor with his PhD student Sina Baghali, on impact of private electric vehicles on distribution system resilience on May. 24, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach (Best Paper Award)</title>
+      <link>https://zhaomiaoguo.github.io/publication/iise2021/</link>
+      <pubDate>Mon, 24 May 2021 01:08:42 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/iise2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
+      <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
       
-      <guid>https://zhaomiaoguo.github.io/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peoples</title>
-      <link>https://zhaomiaoguo.github.io/people/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zhaomiaoguo.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://zhaomiaoguo.github.io/publication/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://zhaomiaoguo.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/talk/</guid>
+      <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
       <description></description>
     </item>
     

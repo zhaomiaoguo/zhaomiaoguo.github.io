@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on INSPIRE Lab @ UCF</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</guid>
-      <description>INSPIRE LAB&#39;s paper on Multi-stage Charging Station and Distributed Generator Planning in Decentralized Power Distribution and Transportation Systems received the 3rd place in the best student paper award competition in Energy System Track in IISE Annual Conference 2022. Congratulations Sina and Rakibul!</description>
+      <description>INSPIRE LAB&amp;rsquo;s paper on Multi-stage Charging Station and Distributed Generator Planning in Decentralized Power Distribution and Transportation Systems received the 3rd place in the best student paper award competition in Energy System Track in IISE Annual Conference 2022. Congratulations Sina and Rakibul!</description>
     </item>
     
     <item>
@@ -54,16 +54,7 @@
       <pubDate>Tue, 26 Oct 2021 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/informs2021_best_poster/</guid>
-      <description>INSPIRE LAB&#39;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!</description>
-    </item>
-    
-    <item>
-      <title>New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC</title>
-      <link>https://zhaomiaoguo.github.io/post/safer_sim_funding/</link>
-      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
-      <description></description>
+      <description>INSPIRE LAB&amp;rsquo;s poster on Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network received 2nd place in the poster competition in INFORMS Annual Conference 2021. Congratulations Fatima!</description>
     </item>
     
     <item>
@@ -76,12 +67,21 @@
     </item>
     
     <item>
+      <title>New funded project on deep reinforcement learning for speed control for network safety, sponsored by Safer-Sim Tier 1 UTC</title>
+      <link>https://zhaomiaoguo.github.io/post/safer_sim_funding/</link>
+      <pubDate>Tue, 01 Jun 2021 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Best paper award (Energy Systems Track) in IISE Annual Conference</title>
       <link>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</link>
       <pubDate>Wed, 26 May 2021 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</guid>
-      <description>INSPIRE LAB&#39;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!</description>
+      <description>INSPIRE LAB&amp;rsquo;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!</description>
     </item>
     
     <item>
@@ -189,7 +189,7 @@
       <pubDate>Tue, 06 Nov 2018 17:54:34 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/post/informs2018_poster/</guid>
-      <description>INSPIRE LAB&#39;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</description>
+      <description>INSPIRE LAB&amp;rsquo;s poster on Distribution Network Reconfiguration with Decentralized Autonomous Electric Vehicles was in the finalist (top 6) of the poster competition at the 2018 INFORMS Annual Meeting.</description>
     </item>
     
     <item>
