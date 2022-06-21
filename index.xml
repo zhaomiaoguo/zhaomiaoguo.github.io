@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Electric Vehicles for Distribution System Load Pickup Under Stressed Conditions: A Network Equilibrium Approach</title>
+      <link>https://zhaomiaoguo.github.io/publication/tps2022/</link>
+      <pubDate>Mon, 20 Jun 2022 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/tps2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Pricing of Ride-sourcing Services in a Congested Transportation Network</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2022/</link>
+      <pubDate>Sat, 11 Jun 2022 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Best student paper award (Energy Systems Track, 3rd place) in IISE Annual Conference</title>
       <link>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</link>
       <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
@@ -131,24 +149,6 @@
       <guid>https://zhaomiaoguo.github.io/post/iise2021_talk/</guid>
       <description>&lt;p&gt;Dr. Guo will have one presentations at IISE Annual Conference 2021 (virtual). He will present the work, coauthor with his PhD student Sina Baghali, on impact of private electric vehicles on distribution system resilience on May. 24, 2021.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach (Best Paper Award)</title>
-      <link>https://zhaomiaoguo.github.io/publication/iise2021/</link>
-      <pubDate>Mon, 24 May 2021 01:08:42 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/iise2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
-      <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
-      <description></description>
     </item>
     
   </channel>
