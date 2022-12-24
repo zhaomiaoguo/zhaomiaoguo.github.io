@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Co-optimization of Charging Scheduling and Platooning for Long-haul Electric Freight Vehicles</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2022_alam/</link>
+      <pubDate>Sun, 11 Dec 2022 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2022_alam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Electric Vehicles for Distribution System Load Pickup Under Stressed Conditions: A Network Equilibrium Approach</title>
       <link>https://zhaomiaoguo.github.io/publication/tps2022/</link>
       <pubDate>Mon, 20 Jun 2022 00:58:05 -0400</pubDate>
@@ -138,16 +147,6 @@
       
       <guid>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</guid>
       <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Presentation at IISE 2021</title>
-      <link>https://zhaomiaoguo.github.io/post/iise2021_talk/</link>
-      <pubDate>Tue, 25 May 2021 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/iise2021_talk/</guid>
-      <description>&lt;p&gt;Dr. Guo will have one presentations at IISE Annual Conference 2021 (virtual). He will present the work, coauthor with his PhD student Sina Baghali, on impact of private electric vehicles on distribution system resilience on May. 24, 2021.&lt;/p&gt;
 </description>
     </item>
     
