@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>System-level impacts of en-route information sharing considering adaptive routing</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</link>
+      <pubDate>Sat, 11 Mar 2023 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Co-optimization of Charging Scheduling and Platooning for Long-haul Electric Freight Vehicles</title>
@@ -123,7 +132,7 @@
     <item>
       <title>A Stochastic Multi-agent Optimization Model for Energy Infrastructure Planning under Uncertainty in An Oligopolistic Market</title>
       <link>https://zhaomiaoguo.github.io/publication/nse2016/</link>
-      <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/publication/nse2016/</guid>
       <description></description>

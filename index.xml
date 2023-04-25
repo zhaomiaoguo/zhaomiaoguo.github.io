@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NSF Workshop: Cyber-enabled to Support Carbon-Neutral Electricity and Mobility</title>
+      <link>https://zhaomiaoguo.github.io/post/nsf2023_workshop/</link>
+      <pubDate>Sun, 23 Apr 2023 17:54:34 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/nsf2023_workshop/</guid>
+      <description>&lt;p&gt;Dr. Guo will serve as the panelist on the NSF-sponsored workshop: Cyber-enabled to Support Carbon-Neutral Electricity and Mobility at TAMU from Apr. 24-25, 2023. The title of his talk is on Opportunities and Challenges for Large-scale Transportation Electrification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System-level impacts of en-route information sharing considering adaptive routing</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</link>
+      <pubDate>Sat, 11 Mar 2023 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2023_afifah/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Co-optimization of Charging Scheduling and Platooning for Long-haul Electric Freight Vehicles</title>
@@ -129,25 +148,6 @@
       
       <guid>https://zhaomiaoguo.github.io/post/safer_sim_funding/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing the Travel and Charging Behavior of ElectricVehicles - A Data-driven Approach</title>
-      <link>https://zhaomiaoguo.github.io/publication/pes2017/</link>
-      <pubDate>Tue, 01 Jun 2021 01:08:42 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/pes2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Best paper award (Energy Systems Track) in IISE Annual Conference</title>
-      <link>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</link>
-      <pubDate>Wed, 26 May 2021 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/iise2021_best_paper/</guid>
-      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s paper on Impacts of Privately Owned Electric Vehicles on Distribution System Resilience: A Multi-agent Optimization Approach received best paper award in Energy System Track in IISE Annual Conference 2021. Congratulations Sina!&lt;/p&gt;
-</description>
     </item>
     
   </channel>

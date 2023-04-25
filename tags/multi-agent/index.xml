@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/tags/multi-agent/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
       <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA), sponsor: NSF, Safer-Sim(seed)</title>
       <link>https://zhaomiaoguo.github.io/project/information/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/information/</guid>
       <description>This project addresses the use of advanced sensing, communications, and computing technologies in studying value of information in transportation systems made up of heterogeneous traffic (cars, autonomous and connected vehicles, buses, bicycles, etc.) The wealth of data available on these systems enables new approaches to information provisioning that have the potential to improve transportation system efficiency, reliability, and resilience. The project develops a unified modeling framework for information provision considering heterogeneous non-cooperative stakeholders and addresses three critical questions: (1) How do we model adaptive behavior of different traffic components in response to evolving information updates?</description>
