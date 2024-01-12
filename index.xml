@@ -11,12 +11,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Intermediate Service Facility Planning in a Stochastic and Competitive Market: Incorporating Agent-infrastructure Interactions over Networks</title>
+      <link>https://zhaomiaoguo.github.io/publication/trc2023_baghali/</link>
+      <pubDate>Sat, 11 Nov 2023 00:50:53 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trc2023_baghali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at TRB 2024</title>
+      <link>https://zhaomiaoguo.github.io/post/trb2024_talk/</link>
+      <pubDate>Fri, 03 Nov 2023 16:30:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/post/trb2024_talk/</guid>
+      <description>&lt;p&gt;INSPIRE lab will present three of recent research at TRB 2024: (1)Estimating Bus Occupancy in Real-time from Wi-Fi Frames with Randomized MAC Addresses; (2) Optimal Speed Limit Control for Network Mobility and Safety: A Twin-Delayed Deep Deterministic Policy Gradient Approach; (3) Estimating Bus Occupancy in Real-time from Wi-Fi Frames with Randomized MAC Addresses&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Md Nafees Fuad Rafi</title>
       <link>https://zhaomiaoguo.github.io/people/md_nafees_fuad_rafi/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/people/md_nafees_fuad_rafi/</guid>
       <description>&lt;p&gt;Md. Nafees Fuad Rafi is a Ph.D. student of Civil Engineering with a focus on Transportation Systems Engineering at the University of Central Florida. Before joining UCF, he worked as a faculty member at AUST, Dhaka, Bangladesh. He has completed his B.Sc. in Civil Engineering at Khulna University of Engineering &amp;amp; Technology (KUET), Khulna, Bangladesh. His research interest includes Travel Behavior Modeling, Smart Mobility, Data Analytics etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miguel Venero Yupanqui</title>
+      <link>https://zhaomiaoguo.github.io/people/miguel_venero_yupanqui/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/miguel_venero_yupanqui/</guid>
+      <description>&lt;p&gt;MohammadReza is a PhD student in Civil Engineering (focus: Transportation Systems Engineering) at the University of Central Florida. He earned his undergraduate from Islamic Azad University and master&amp;rsquo;s from Sharif University of Technology, both in Industrial Engineering. He has a strong background in Operations Research, Mathematical Formulation, and Optimization. Mohammadreza&amp;rsquo;s research interests revolve around the application of mathematical and computational tools to address real-world problems in fields like transportation and logistics. He is currently working on the optimization of alternative fuel vehicles and their infrastructure planning.&lt;/p&gt;
 </description>
     </item>
     
@@ -51,6 +80,15 @@
     </item>
     
     <item>
+      <title>Multi-stage Charging Station and Distributed Generator Capacity Expansion in Decentralized Power Distribution and Transportation Systems</title>
+      <link>https://zhaomiaoguo.github.io/publication/sj/</link>
+      <pubDate>Tue, 20 Jun 2023 00:58:05 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/sj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NSF CAREER Award</title>
       <link>https://zhaomiaoguo.github.io/post/nsf2023_career/</link>
       <pubDate>Sat, 29 Apr 2023 17:54:34 -0400</pubDate>
@@ -82,6 +120,15 @@
     </item>
     
     <item>
+      <title>Private Electric Vehicles for Emergency Load Pickup: A Multi-Network Stochastic Equilibrium Approach</title>
+      <link>https://zhaomiaoguo.github.io/publication/trr2023/</link>
+      <pubDate>Sun, 01 Jan 2023 01:12:08 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/publication/trr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Co-optimization of Charging Scheduling and Platooning for Long-haul Electric Freight Vehicles</title>
       <link>https://zhaomiaoguo.github.io/publication/trc2022_alam/</link>
       <pubDate>Sun, 11 Dec 2022 00:50:53 -0400</pubDate>
@@ -106,54 +153,6 @@
       
       <guid>https://zhaomiaoguo.github.io/publication/trc2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Best student paper award (Energy Systems Track, 3rd place) in IISE Annual Conference</title>
-      <link>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</link>
-      <pubDate>Thu, 26 May 2022 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/iise2022_best_student_paper/</guid>
-      <description>&lt;p&gt;INSPIRE LAB&amp;rsquo;s paper on Multi-stage Charging Station and Distributed Generator Planning in Decentralized Power Distribution and Transportation Systems received the 3rd place in the best student paper award competition in Energy System Track in IISE Annual Conference 2022. Congratulations Sina and Rakibul!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Presentations at IISE 2021</title>
-      <link>https://zhaomiaoguo.github.io/post/iise2022_talk/</link>
-      <pubDate>Wed, 25 May 2022 17:54:34 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/iise2022_talk/</guid>
-      <description>&lt;p&gt;We will have three presentations at IISE Annual Conference 2022 at Seattle from May 21 to May 24, 2022. Sina will present the work, coauthored with Rakibul Alam and Dr. Guo, on multi-stage multi-agent charging infrastructure and distributed generators planning in coupled transportation and power systems.  Dr. Guo will present two of the works on the charging infrastructure planning for ride-sourcing systems (coauthored with Rakibul) and network modeling with en-route information updates for transportation systems (coauthored with Fatima).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimization-based trip chain emulation for electrified ride-sourcing charging demand analyses</title>
-      <link>https://zhaomiaoguo.github.io/publication/tl2022a/</link>
-      <pubDate>Thu, 05 May 2022 00:58:05 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/tl2022a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Charging Infrastructure Planning for Ride-sourcing Electric Vehicles Considering Drivers’ Value of Time</title>
-      <link>https://zhaomiaoguo.github.io/publication/tl2022b/</link>
-      <pubDate>Wed, 04 May 2022 00:58:05 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/publication/tl2022b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation at 2022 7th Annual UTC Conference for the Southeastern Region</title>
-      <link>https://zhaomiaoguo.github.io/post/utc2022_talk/</link>
-      <pubDate>Thu, 24 Mar 2022 16:30:00 -0400</pubDate>
-      
-      <guid>https://zhaomiaoguo.github.io/post/utc2022_talk/</guid>
-      <description>&lt;p&gt;Rakibul presented one of his recent research at 2022 7th Annual UTC Conference for the Southeastern Region. The title of the presentation is Co-optimization of Charging Scheduling and Platooning for Long-haul Freight Electric Vehicles.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
