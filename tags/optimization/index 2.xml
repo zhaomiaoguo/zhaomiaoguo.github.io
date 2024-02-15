@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/optimization/</link>
+    <description>Recent content in optimization on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amani McFarlane</title>
+      <link>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/amani_mcfarlane/</guid>
+      <description>Amani is an undergraduate at UCF pursuing a degree in industrial engineering. His research interests include optimization and ergonomics.</description>
+    </item>
+    
+    <item>
+      <title>Tadeas Lobreis</title>
+      <link>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/tadeas_lobreis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

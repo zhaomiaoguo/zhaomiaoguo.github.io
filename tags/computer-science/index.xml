@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on INSPIRE Lab @ UCF</title>
+    <link>https://zhaomiaoguo.github.io/tags/computer-science/</link>
+    <description>Recent content in Computer Science on INSPIRE Lab @ UCF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://zhaomiaoguo.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miguel Angel Venero Yupanqui</title>
+      <link>https://zhaomiaoguo.github.io/people/miguel_veneroyupanqui/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zhaomiaoguo.github.io/people/miguel_veneroyupanqui/</guid>
+      <description>Miguel Venero Yupanqui is a recent graduate in Computer Science at the University of Central Florida. Miguel completed his BSc. in Computer Science in December 2023. His research interests include Smart Mobility, Artificial Intelligence, Robotics, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
