@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reinforcement-learning on INSPIRE Lab @ UCF</title>
+    <title>reinforcement-learning on INSPIRE Lab @ UT-Austin</title>
     <link>https://zhaomiaoguo.github.io/tags/reinforcement-learning/</link>
-    <description>Recent content in reinforcement-learning on INSPIRE Lab @ UCF</description>
+    <description>Recent content in reinforcement-learning on INSPIRE Lab @ UT-Austin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Distributed Reinforcement Learning for Optimal Speed Limit Control Over Network, sponsor: Safer-Sim</title>
       <link>https://zhaomiaoguo.github.io/project/reinforcement_learning/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/project/reinforcement_learning/</guid>
       <description></description>

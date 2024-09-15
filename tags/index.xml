@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on INSPIRE Lab @ UCF</title>
+    <title>Tags on INSPIRE Lab @ UT-Austin</title>
     <link>https://zhaomiaoguo.github.io/tags/</link>
-    <description>Recent content in Tags on INSPIRE Lab @ UCF</description>
+    <description>Recent content in Tags on INSPIRE Lab @ UT-Austin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0400</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://zhaomiaoguo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Computer Science</title>
       <link>https://zhaomiaoguo.github.io/tags/computer-science/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/computer-science/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Operations Research</title>
       <link>https://zhaomiaoguo.github.io/tags/operations-research/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/operations-research/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Smart Mobility</title>
       <link>https://zhaomiaoguo.github.io/tags/smart-mobility/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/smart-mobility/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>agent-base-modeling</title>
       <link>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/agent-base-modeling/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>agent-based modeling</title>
       <link>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/agent-based-modeling/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>big-data</title>
       <link>https://zhaomiaoguo.github.io/tags/big-data/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/big-data/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>cascading</title>
       <link>https://zhaomiaoguo.github.io/tags/cascading/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/cascading/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>charging</title>
       <link>https://zhaomiaoguo.github.io/tags/charging/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/charging/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>charging-infratructure</title>
       <link>https://zhaomiaoguo.github.io/tags/charging-infratructure/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/charging-infratructure/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>computer vision</title>
       <link>https://zhaomiaoguo.github.io/tags/computer-vision/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/computer-vision/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>current graduate</title>
       <link>https://zhaomiaoguo.github.io/tags/current-graduate/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/current-graduate/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>current undergraduate</title>
       <link>https://zhaomiaoguo.github.io/tags/current-undergraduate/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/current-undergraduate/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>data analytics</title>
       <link>https://zhaomiaoguo.github.io/tags/data-analytics/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/data-analytics/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>data-analytics</title>
       <link>https://zhaomiaoguo.github.io/tags/data-analytics/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/data-analytics/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>data-visualization</title>
       <link>https://zhaomiaoguo.github.io/tags/data-visualization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/data-visualization/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>electric-vehicle</title>
       <link>https://zhaomiaoguo.github.io/tags/electric-vehicle/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/electric-vehicle/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>freight transportation</title>
       <link>https://zhaomiaoguo.github.io/tags/freight-transportation/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/freight-transportation/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>graduate-researcher</title>
       <link>https://zhaomiaoguo.github.io/tags/graduate-researcher/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/graduate-researcher/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>high school student</title>
       <link>https://zhaomiaoguo.github.io/tags/high-school-student/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/high-school-student/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>image processing</title>
       <link>https://zhaomiaoguo.github.io/tags/image-processing/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/image-processing/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>information</title>
       <link>https://zhaomiaoguo.github.io/tags/information/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/information/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>infrastructure resilience</title>
       <link>https://zhaomiaoguo.github.io/tags/infrastructure-resilience/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/infrastructure-resilience/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>interdependency</title>
       <link>https://zhaomiaoguo.github.io/tags/interdependency/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/interdependency/</guid>
       <description></description>
@@ -231,7 +231,7 @@
     <item>
       <title>machine learning</title>
       <link>https://zhaomiaoguo.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/machine-learning/</guid>
       <description></description>
@@ -249,7 +249,7 @@
     <item>
       <title>multi-agent</title>
       <link>https://zhaomiaoguo.github.io/tags/multi-agent/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/multi-agent/</guid>
       <description></description>
@@ -258,7 +258,7 @@
     <item>
       <title>operations research</title>
       <link>https://zhaomiaoguo.github.io/tags/operations-research/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/operations-research/</guid>
       <description></description>
@@ -267,7 +267,7 @@
     <item>
       <title>optimization</title>
       <link>https://zhaomiaoguo.github.io/tags/optimization/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/optimization/</guid>
       <description></description>
@@ -276,7 +276,7 @@
     <item>
       <title>power</title>
       <link>https://zhaomiaoguo.github.io/tags/power/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/power/</guid>
       <description></description>
@@ -285,7 +285,7 @@
     <item>
       <title>power system</title>
       <link>https://zhaomiaoguo.github.io/tags/power-system/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/power-system/</guid>
       <description></description>
@@ -294,7 +294,7 @@
     <item>
       <title>power systems</title>
       <link>https://zhaomiaoguo.github.io/tags/power-systems/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/power-systems/</guid>
       <description></description>
@@ -303,7 +303,7 @@
     <item>
       <title>power-system-resilience</title>
       <link>https://zhaomiaoguo.github.io/tags/power-system-resilience/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/power-system-resilience/</guid>
       <description></description>
@@ -312,7 +312,7 @@
     <item>
       <title>previous graduate</title>
       <link>https://zhaomiaoguo.github.io/tags/previous-graduate/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/previous-graduate/</guid>
       <description></description>
@@ -321,7 +321,7 @@
     <item>
       <title>previous undergraduate</title>
       <link>https://zhaomiaoguo.github.io/tags/previous-undergraduate/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/previous-undergraduate/</guid>
       <description></description>
@@ -330,7 +330,7 @@
     <item>
       <title>reinforcement-learning</title>
       <link>https://zhaomiaoguo.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/reinforcement-learning/</guid>
       <description></description>
@@ -339,7 +339,7 @@
     <item>
       <title>ride-sharing</title>
       <link>https://zhaomiaoguo.github.io/tags/ride-sharing/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/ride-sharing/</guid>
       <description></description>
@@ -348,7 +348,7 @@
     <item>
       <title>sustainable transportation systems</title>
       <link>https://zhaomiaoguo.github.io/tags/sustainable-transportation-systems/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/sustainable-transportation-systems/</guid>
       <description></description>
@@ -357,7 +357,7 @@
     <item>
       <title>traffic safety</title>
       <link>https://zhaomiaoguo.github.io/tags/traffic-safety/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/traffic-safety/</guid>
       <description></description>
@@ -366,7 +366,7 @@
     <item>
       <title>transportation</title>
       <link>https://zhaomiaoguo.github.io/tags/transportation/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/transportation/</guid>
       <description></description>
@@ -375,7 +375,7 @@
     <item>
       <title>transportation and power system interdependence</title>
       <link>https://zhaomiaoguo.github.io/tags/transportation-and-power-system-interdependence/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/transportation-and-power-system-interdependence/</guid>
       <description></description>
@@ -384,7 +384,7 @@
     <item>
       <title>transportation electrification</title>
       <link>https://zhaomiaoguo.github.io/tags/transportation-electrification/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/transportation-electrification/</guid>
       <description></description>
@@ -393,7 +393,7 @@
     <item>
       <title>transportation engineering</title>
       <link>https://zhaomiaoguo.github.io/tags/transportation-engineering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/transportation-engineering/</guid>
       <description></description>
@@ -402,7 +402,7 @@
     <item>
       <title>transportation system modeling and optimization</title>
       <link>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/transportation-system-modeling-and-optimization/</guid>
       <description></description>
@@ -411,7 +411,7 @@
     <item>
       <title>undergraduate researcher</title>
       <link>https://zhaomiaoguo.github.io/tags/undergraduate-researcher/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/undergraduate-researcher/</guid>
       <description></description>
@@ -420,7 +420,7 @@
     <item>
       <title>vehicle technology</title>
       <link>https://zhaomiaoguo.github.io/tags/vehicle-technology/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/vehicle-technology/</guid>
       <description></description>
@@ -429,7 +429,7 @@
     <item>
       <title>visiting scholar</title>
       <link>https://zhaomiaoguo.github.io/tags/visiting-scholar/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/visiting-scholar/</guid>
       <description></description>
@@ -438,7 +438,7 @@
     <item>
       <title>volunteer</title>
       <link>https://zhaomiaoguo.github.io/tags/volunteer/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://zhaomiaoguo.github.io/tags/volunteer/</guid>
       <description></description>
